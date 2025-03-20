@@ -31,7 +31,7 @@ const Felvettek = (() =>{
 
             </div>
 
-            <div>
+            <div id="alap">
                 <h3>A felvételttek rangsora, nyelvi előkészítőre.A maximálisan felvehető tanulók száma 32 fő.</h3>
                 <p>A választott ágazat: elektronika</p>
 

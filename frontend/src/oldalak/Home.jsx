@@ -35,21 +35,14 @@ const Home = (() =>{
 
                 <h3>Az oldal használatáról</h3>
                 <p>Ön az oldal használatával a következő információkhoz juthat hozzá</p>
-                <div><p>Előzetes rangsor:</p>
+                <div className="feher"><p>Előzetes rangsor:</p></div>
+                <div className="feher"><p>Nevek</p></div>
+                <div className="feher"><p>Ágazat</p></div>
+                <div className="feher"><p>Összes pontszám</p></div>
+                <div className="feher"><p>Előzetes rangsor nyelvi előkészítő</p></div>
+                <div className="feher"><p>A felvettek névsora</p></div>
 
-                </div>
-
-                <div>
-
-                <div><p>Tanuló neve</p><div/>
-                <div><p>Ágazat</p></div>
-                <div><p>Összes</p></div>
-
-                </div>
-
-                <div><p>Előzetes rangsor nyelvi előkészítő</p></div>
-                <div><p>A felvettek névsora</p></div>
-                </div>   
+                
 
            
             </div>
@@ -64,7 +57,7 @@ const Home = (() =>{
 
 
             </div>
-        
+        <div id="alap2">
             <div id="tablazat">
             <table class="table">
                 <thead>
@@ -98,6 +91,7 @@ const Home = (() =>{
                     </tr>
                 </tbody>
             </table>
+                </div>
                 </div>
             </div>
 
