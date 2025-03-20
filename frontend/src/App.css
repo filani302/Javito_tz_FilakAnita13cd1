@@ -1,0 +1,46 @@
+.containerH{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 10px; 
+}
+
+.haromMusketas{
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #ccc;
+
+}
+
+.containerFel {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px; 
+}
+
+.kettes{
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+  border: 1px solid #ccc;
+}
+
+.barna{
+  background-color: rgb(190, 166, 150);
+}
+
+#bagoly{
+  float: left;
+}
+
+#link{
+  float: left;
+}
+
+#ur{
+  width: 10px;
+}
+
+#ur2{
+  width: 20px;
+}
